@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1492269383 source:c:\users\gia tin computer\desktop\it003.h21.clc_16520703\sort_cmp\main.cpp
+	"bits/stdc++.h"
+	"Function.h"
+	"SortAlgorithm.h"
+	"ArrayGenerator.h"
+
+1492006934 c:\users\gia tin computer\desktop\it003.h21.clc_16520703\sort_cmp\sort_algorithm.h
+	<iostream>
+	<algorithm>
+
+1492272973 c:\users\gia tin computer\desktop\it003.h21.clc_16520703\sort_cmp\arraygenerator.h
+	<iostream>
+	<algorithm>
+	<windows.h>
+
+1492254321 c:\users\gia tin computer\desktop\it003.h21.clc_16520703\sort_cmp\sortalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1492012109 c:\users\gia tin computer\desktop\it003.h21.clc_16520703\sort_cmp\sortalgoscompare.h
+	<iostream>
+	<windows.h>
+	<chrono>
+	"SortAlgorithm.h"
+
+1492263096 source:c:\users\gia tin computer\desktop\it003.h21.clc_16520703\sort_cmp\sortalgorithm.cpp
+	"SortAlgorithm.h"
+
+1492271185 source:c:\users\gia tin computer\desktop\it003.h21.clc_16520703\sort_cmp\function.cpp
+	"Function.h"
+
+1492269383 c:\users\gia tin computer\desktop\it003.h21.clc_16520703\sort_cmp\function.h
+	<iostream>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<fstream>
+	<chrono>
+	"SortAlgorithm.h"
+
